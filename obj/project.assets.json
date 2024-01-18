@@ -8016,11 +8016,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cammi\\Documents\\CSE325\\firstBlazer\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\cammi\\Documents\\CSE325\\DotNetDependencies\\firstBlazer\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\cammi\\Documents\\CSE325\\firstBlazer\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\cammi\\Documents\\CSE325\\DotNetDependencies\\firstBlazer\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\cammi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cammi\\Documents\\CSE325\\firstBlazer\\MvcMovie\\obj\\",
+      "outputPath": "C:\\Users\\cammi\\Documents\\CSE325\\DotNetDependencies\\firstBlazer\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cammi\\AppData\\Roaming\\NuGet\\NuGet.Config"

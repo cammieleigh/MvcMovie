@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jq5m2iEvOQMex4DZSaWpUACX5boRpziqwjVgopJmSrVlHjOjcch0DdMmLXzubT3ScUgaTuN8SyGWdp1Otm/hwA==",
+  "dgSpecHash": "a1IzHC6/UhnwiEblEWduWIi7hIcUuWHdwEQyI3LZ3+bbAViBmz9RvJK88N7g0RtyqGI8sevE82q8GbbEON4Dvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cammi\\Documents\\CSE325\\firstBlazer\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "C:\\Users\\cammi\\Documents\\CSE325\\DotNetDependencies\\firstBlazer\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cammi\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\cammi\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
